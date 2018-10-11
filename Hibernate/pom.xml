@@ -1,0 +1,51 @@
+<!-- Hibernate Maven Dependencies -->
+<dependency>
+    <groupid>org.hibernate</groupid>
+    <artifactid>hibernate-commons-annotations</artifactid>
+    <version>3.0.0.ga</version>
+</dependency>
+<dependency>
+    <groupid>org.hibernate</groupid>
+    <artifactid>hibernate-annotations</artifactid>
+    <version>3.3.0.ga</version>
+</dependency>
+<dependency>
+    <groupid>mysql</groupid>
+    <artifactid>mysql-connector-java</artifactid>
+    <version>5.1.6</version>
+</dependency>
+<dependency>
+    <groupid>antlr</groupid>
+    <artifactid>antlr</artifactid>
+    <version>2.7.6</version>
+</dependency>
+<dependency>
+    <groupid>commons-collections</groupid>
+    <artifactid>commons-collections</artifactid>
+    <version>3.1</version>
+</dependency>
+<dependency>
+    <groupid>dom4j</groupid>
+    <artifactid>dom4j</artifactid>
+    <version>1.6.1</version>
+</dependency>
+<dependency>
+    <groupid>javassist</groupid>
+    <artifactid>javassist</artifactid>
+    <version>3.4.GA</version>
+</dependency>
+<dependency>
+    <groupid>javax.transaction</groupid>
+    <artifactid>jta</artifactid>
+    <version>1.1</version>
+</dependency>
+<dependency>
+    <groupid>org.slf4j</groupid>
+    <artifactid>slf4j-api</artifactid>
+    <version>1.5.6</version>
+</dependency>
+<dependency>
+    <groupid>org.slf4j</groupid>
+    <artifactid>slf4j-log4j12</artifactid>
+    <version>1.5.6</version>
+</dependency>
