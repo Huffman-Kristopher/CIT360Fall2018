@@ -6,28 +6,17 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>serverlet</title>
         <meta name="author" content="Kristopher Huffman">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
-    <style>
-        body {
-    background-color: lightblue;
-}
-h1 {
-    color: white;
-    text-align: center;
-}
-p {
-    font-family: verdana;
-    font-size: 20px;
-    </style>
     <body>
-        <form action="demoServerlet">
-            <h1> Kris Huffman's Serverlet Demo Login Page.</h1>
-            <p> Name:<input type="text" name="userName"></p>
-            <p> <input type="submit" value="login"> </p>
-        </form>
+         <form action = "HelloForm" method = "GET">
+         First Name: <input type = "text" name = "first_name">
+         <br />
+         Last Name: <input type = "text" name = "last_name" />
+         <input type = "submit" value = "Submit" />
+      </form>
     </body>
 </html>
