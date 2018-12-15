@@ -69,7 +69,7 @@ public class CharacterApplication extends HttpServlet {
                   + "<th>First Name</th>"
                   + "<th>Last Name</th>"
                   + "<th>Job</th>"
-                  + "<th>Hair Number</th>"
+                  + "<th>Hair</th>"
                   + "<th>Create Date</th>"
                   + "</tr>\n"
                   + "<tr>\n");
